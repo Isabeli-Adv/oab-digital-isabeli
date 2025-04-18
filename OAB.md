@@ -1,11 +1,7 @@
-# OAB-digital-isabeli Montez
-Carteira Digital da OAB para a advogada Isabeli Montez, com informações de registro e assinatura.
 
 <h1>OAB Digital - Isabeli Montez</h1>
 
 <p>Carteira Digital da OAB para a advogada Isabeli Montez, com informações de registro e assinatura.</p>
-
-<img src="URL_DA_IMAGEM" alt="Imagem da OAB" style="max-width:100%; height:auto;"/>
 
 <h2>Informações de Registro:</h2>
 <ul>
